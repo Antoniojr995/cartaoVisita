@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="add">Add card</string>
+    <string name="add_title">Add Card</string>
+    <string name="nome">Name</string>
+    <string name="empresa">Company</string>
+    <string name="email">E-mail</string>
+    <string name="tel">Phone Number</string>
+    <string name="back_btn">Back</string>
+    <string name="btn_add">Save</string>
+    <string name="color_picker">Select Color</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="ok">Success</string>
+    <string name="send_to">Send to</string>
+</resources>
